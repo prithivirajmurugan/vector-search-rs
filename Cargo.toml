@@ -1,0 +1,14 @@
+[package]
+name = "vector-search"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = "4.5.1"
+dashmap = "5.5.3"
+itertools = "0.12.1"
+json = "0.12.4"
+rand = "0.8.5"
+rayon = "1.8.1"
